@@ -54,7 +54,7 @@ const Table = () => {
                 <button className="btn btn-ghost btn-xs">details</button>
               </th>
             </tr>
-            {/* row 2 */}
+
             <tr>
               <th>
                 <label>
