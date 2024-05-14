@@ -1,6 +1,7 @@
 import React from "react";
 
 const Accordian = () => {
+    
   return (
     <div className="my-10">
       <div className="collapse collapse-plus bg-base-200">
