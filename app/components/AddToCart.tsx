@@ -1,9 +1,11 @@
 import React from 'react'
 
-function AddToCart() {
+const AddToCart=()=> {
     
   return (
-    <div><button className='btn btn-primary'>Add To Cart</button></div>
+    <div>
+      <button className='btn btn-primary'>Add To Cart</button>
+    </div>
   )
 }
 

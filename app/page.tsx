@@ -3,7 +3,7 @@ import Table from "./components/Table";
 import Accordian from "./components/Accordian";
 
 
-export default function Home() {
+const Home =()=> {
 
   return (
     <main>
@@ -13,3 +13,5 @@ export default function Home() {
     </main>
   )
 }
+
+export default Home
