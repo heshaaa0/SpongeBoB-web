@@ -1,7 +1,10 @@
 import Header from "./components/HeroSection";
 import Table from "./components/Table";
-import Accordian from "./components/Accordian";
+import Accordion from "./components/Accordian";
 import HeroSection from "./components/HeroSection";
+import Grid from "./components/Grid";
+import FlexText from "./components/FllexText";
+import DashboardOpt from "./components/DashboardOpt";
 
 
 const Home =()=> {
@@ -9,7 +12,10 @@ const Home =()=> {
   return (
     <main>
       <HeroSection/>
-      <Accordian/>
+      <DashboardOpt/>
+      <Grid/>
+      <FlexText/>
+      <Accordion/>
       {/* <Table/> */}
     </main>
   )

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Accordian = () => {
+const Accordion = () => {
     
   return (
     <div className="my-10">
@@ -35,4 +35,4 @@ const Accordian = () => {
   );
 };
 
-export default Accordian;
+export default Accordion;
